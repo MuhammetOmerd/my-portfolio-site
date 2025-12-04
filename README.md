@@ -22,7 +22,7 @@ pratiği yapmak amacıyla hazırlamıştım
 ### 1️⃣ Repo'yu klonlayın
 
     git clone https://github.com/MuhammetOmerd/my-portfolio-site.git
-    cd repo-ismi
+    cd my-portfolio-site
 
 ### 2️⃣ Modülleri yükleyin
 
