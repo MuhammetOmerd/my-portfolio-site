@@ -14,37 +14,33 @@ olarak kullanılabilir.
 
 ## 📅 Proje Tarihi
 
-Bu proje **2025 yılında**, kişisel portfolyo oluşturmak ve EJS/Node.js
-pratiği yapmak amacıyla hazırlanmıştır.
+Bu proje **2020 yılında**, kişisel portfolyo oluşturmak ve EJS/Node.js
+pratiği yapmak amacıyla hazırlamıştım
 
 ## 📦 Kurulum
 
 ### 1️⃣ Repo'yu klonlayın
 
-    git clone https://github.com/kullaniciadi/repo-ismi.git
+    git clone https://github.com/MuhammetOmerd/my-portfolio-site.git
     cd repo-ismi
 
-### 2️⃣ Bağımlılıkları yükleyin
+### 2️⃣ Modülleri yükleyin
 
     npm install
 
-### 3️⃣ Sunucuyu başlatın
+### 3️⃣ Projeyi başlatın
 
-    npm start
+    node server.js
 
-veya
+### 4️⃣ Tarayıcıda açın {localhost için}
 
-    node app.js
-
-### 4️⃣ Tarayıcıda açın
-
-    http://localhost:3000
+    http://localhost:8080
 
 ## 📁 Proje Yapısı (Genel)
 
     /public        → CSS, JS, görseller
     /views         → EJS dosyaları
-    app.js         → Ana sunucu dosyası
+    server.js         → Ana sunucu dosyası
     package.json   → Bağımlılıklar ve scriptler
 
 ## ✨ Özellikler
