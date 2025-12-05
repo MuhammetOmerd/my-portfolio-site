@@ -14,7 +14,7 @@ olarak kullanılabilir.
 
 ## 📅 Proje Tarihi
 
-Bu proje **2020 yılında**, kişisel portfolyo oluşturmak ve EJS/Node.js
+Bu proje **2025 yılında**, kişisel portfolyo oluşturmak ve EJS/Node.js
 pratiği yapmak amacıyla hazırlamıştım
 
 ## 📦 Kurulum
